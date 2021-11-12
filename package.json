@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node server",
-    "s":"nodemon server"
+    "s": "nodemon server"
   },
   "keywords": [],
   "author": "",
@@ -18,6 +18,8 @@
     "gravatar": "^1.8.2",
     "js": "^0.1.0",
     "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.1.4",
+    "mongoose": "^6.0.12",
     "mongose": "0.0.2-security",
     "request": "^2.88.2"
   },
